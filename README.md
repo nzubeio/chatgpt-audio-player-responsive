@@ -1,3 +1,35 @@
+# ChatGPT Audio Player (Responsive Version)
+
+This is an improved version of the original project by Ian Speckart.
+
+## What I changed
+
+- Made the audio player responsive (shrinks on smaller screens)
+- Fixed positioning issues
+- Added support for `https://chatgpt.com/*`
+
+## Install (for users)
+
+1. Click the green **Code** button
+2. Click **Download ZIP**
+3. Extract the file
+4. Open Chrome/Brave
+5. Go to:
+   chrome://extensions/  
+   or  
+   brave://extensions/
+6. Turn on **Developer mode**
+7. Click **Load unpacked**
+8. Select the extracted folder
+
+---
+
+## Original Project
+
+Below is the original README:
+
+
+
 # chatgpt-audio-player
 
 Audio player for the 'Read Aloud' feature
